@@ -7,9 +7,10 @@
 </br>
 <h4 align="center"> 
 	🚧  STATUS DO PROJETO 🚀 Em construção...  🚧
+	<a href="https://ibb.co/rZ8dNQc"><img src="https://i.ibb.co/brwbD62/Screenshot-16.png" alt="Screenshot-16" border="0"></a>
+
 </h4>
 
-<a align="center" href="https://ibb.co/rZ8dNQc"><img src="https://i.ibb.co/brwbD62/Screenshot-16.png" alt="Screenshot-16" border="0"></a>
 
 
 
