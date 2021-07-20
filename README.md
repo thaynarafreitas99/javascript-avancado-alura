@@ -15,10 +15,10 @@
 
 <h4 align="center"> 
 	<p>🚧  COMMIT 01  🚧 </p> </br>
-	- [x] Modelo de negócio da negociação individual, mensagens e lista de negociações.
-	- [x] Classe controller de negociação que adiciona uma negociação na tabela, cria uma nova negociação e limpa formulário.
-	- [x] Classe View para criar tabela, e também mensagens dinamicamente;
-	- [x] Criação de uma classe View para se obter um relacionamento de herança com as outras views; 
+	<p>- [x] Modelo de negócio da negociação individual, mensagens e lista de negociações.  </p> </br>
+	<p>- [x] Classe controller de negociação que adiciona uma negociação na tabela, cria uma nova negociação e limpa formulário.  </p> </br>
+	<p>- [x] Classe View para criar tabela, e também mensagens dinamicamente;  </p> </br>
+	<p>- [x] Criação de uma classe View para se obter um relacionamento de herança com as outras views;  </p> </br>
 
 </h4>
 
