@@ -9,7 +9,7 @@
 	🚧  STATUS DO PROJETO 🚀 Em construção...  🚧
 </h4>
 
-![Thiago Marinho](https://ibb.co/rZ8dNQc)
+<a href="https://ibb.co/rZ8dNQc"><img src="https://i.ibb.co/brwbD62/Screenshot-16.png" alt="Screenshot-16" border="0"></a>
 
 
 
