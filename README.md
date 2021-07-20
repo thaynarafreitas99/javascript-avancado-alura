@@ -1,1 +1,23 @@
-# javascript-avancado-alura
+<h1 align="center">
+    <a href="https://pt-br.reactjs.org/">🔗 JavaScript </a>
+</h1>
+<p align="center">
+  🚀 Projeto feito no curso de JavaScript da Alura para avançar em conceitos da linguagem, padrões de projetos como MVC etc. Página simples de negociação com um formulário que      recebe a data, quantidade, valor que é incluido em uma tabela com o volume sendo calculado, e o total de todos os volumes.  
+</p>
+</br>
+<h4 align="center"> 
+	🚧  STATUS DO PROJETO 🚀 Em construção...  🚧
+</h4>
+
+![Thiago Marinho](https://ibb.co/rZ8dNQc)
+
+
+
+
+</br>
+### Features
+
+- [x] Modelo de negócio da negociação individual, mensagens e lista de negociações.
+- [x] Classe controller de negociação que adiciona uma negociação na tabela, cria uma nova negociação e limpa formulário.
+- [x] Classe View para criar tabela, e também mensagens dinamicamente;
+- [x] Criação de uma classe View para se obter um relacionamento de herança com as outras views; 
